@@ -1,2 +1,2 @@
-# Food-website-Resturant-types
+# Food-website
 Using html and css and JavaSript
